@@ -85,7 +85,7 @@ def gauss_seidel(
     """Resuelve el sistema de ecuaciones lineales Ax = b mediante el método de Gauss-Seidel.
 
     ## Parameters
-    ``A``: Matriz de coeficientes del sistema de ecuaciones lineales.
+    ``A``: Matriz de coefcientes del sistema de ecuaciones lineales.
     ``b``: Vector de términos independientes del sistema de ecuaciones lineales.
     ``x0``: Vector de aproximación inicial.
     ``tol``: Tolerancia.
